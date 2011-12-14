@@ -4,7 +4,7 @@
 	"fold_buttons": true,
 	"rulers":
 	[
-		80
+		78
 	],
 	"scroll_past_end": true,
 	"sublimelinter_delay": 0.01,
