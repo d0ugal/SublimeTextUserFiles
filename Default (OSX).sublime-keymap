@@ -1,10 +1,5 @@
 [
-
-	{ "keys": ["ctrl+shift+enter"], "command": "select_lines", "args": {"forward": false} },
-
 	{ "keys": ["super+b"], "command": "toggle_side_bar" },
-
     { "keys": ["ctrl+alt+super+up"], "command": "select_lines", "args": {"forward": false} },
     { "keys": ["ctrl+alt+super+down"], "command": "select_lines", "args": {"forward": true} }
-
 ]
