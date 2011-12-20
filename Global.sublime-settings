@@ -1,6 +1,6 @@
 {
     "ignored_packages": [],
-    "theme": "Soda Light.sublime-theme",
     "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", ".tox"],
-    "vintage_start_in_command_mode": true
+    "vintage_start_in_command_mode": true,
+    "highlight_modified_tabs": true
 }
