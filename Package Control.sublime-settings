@@ -1,7 +1,8 @@
 {
-	"auto_upgrade_last_run": 1329844165,
+	"auto_upgrade_last_run": 1336229011,
 	"installed_packages":
 	[
+		"IcedCoffeeScript",
 		"Package Control",
 		"SublimeCodeIntel",
 		"SublimeLinter"
